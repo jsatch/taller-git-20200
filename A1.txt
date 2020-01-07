@@ -1,2 +1,3 @@
 Esto es un archivo texto
 Cambio
+cAMBIO 2
